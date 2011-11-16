@@ -1,5 +1,4 @@
-﻿
-WizNoteFixer
+﻿WizNoteFixer
 ==============
 
 This is a plugin for wiz. Written in C#.
@@ -7,9 +6,9 @@ Features are hereunder.
 
 1) Modify specified fonts to other fonts.
 
-2) Remove width and height in label <img> to display origin images.
+2) Remove width and height in label \<img\> to display origin images.
 
-3) Remove the fixed width in <div> of notes imported from OneNote.
+3) Remove the fixed width in \<div\> of notes imported from OneNote.
 
 
 Licensed under the [MIT License](http://www.opensource.org/licenses/mit-license.php).
